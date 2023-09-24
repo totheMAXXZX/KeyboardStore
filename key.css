@@ -11,7 +11,10 @@ html,body{
 	margin: 10px auto 10px auto;
 	padding: 35px;
 	border: 10px double #000;
-	background-color: #EFEFEF;
+	background-image: url("pastel.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 
 #logo{
